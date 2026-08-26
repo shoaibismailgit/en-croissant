@@ -183,4 +183,3 @@ function TopBar({ menuActions }: { menuActions: MenuGroup[] }) {
 }
 
 export default TopBar;
-
